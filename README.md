@@ -18,3 +18,5 @@ The cells that remain white have not been added to the priority queue.
 
 If the algorithm is not able to find the shortest path, no yellow path will be displayed. Only the visualization of the algorithm's search will be displayed.
 The caption of the window will display "Path not found".
+
+To reset the grid press z.
