@@ -1,5 +1,5 @@
 # MazePathFinding
-Implementing the A* path finding algorithm, the script is able to find the shortest path from a user-selected start and end point on a randomly generated maze like grid.
+Implementing the A* pathfinding algorithm, the script is able to find the shortest path from a user-selected start and end point on a randomly generated maze like grid.
 
 When the script is run, a window displaying a randomly generated maze-like grid will pop up. 
 The dark blue colored squares represent obstacles and white colored squares represent where the search algorithm is free to travel.
