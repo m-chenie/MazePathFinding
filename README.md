@@ -20,3 +20,5 @@ If the algorithm is not able to find the shortest path, no yellow path will be d
 The caption of the window will display "Path not found".
 
 To reset the grid press z.
+
+Feel free to download the demo video to see how the progam works
