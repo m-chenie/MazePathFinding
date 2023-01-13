@@ -228,6 +228,7 @@ def main():
                         pygame.display.set_caption("Shortest path found")
 
                 if event.key == pygame.K_z:  # if user presses z key, grid resets
+                    pygame.display.set_caption("A* pathfinding")
                     grid = create_grid()
                     start_cell = None
                     end_cell = None
